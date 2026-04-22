@@ -1,0 +1,8 @@
+.menu{
+    list-style-type:none;
+}
+
+.menuItem{
+    display: inline-block;
+    margin-right:10px
+}
