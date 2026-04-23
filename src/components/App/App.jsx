@@ -5,11 +5,11 @@ import Hotels from '../Hotels/Hotels.jsx'
 
 function App() {
   return (
-    <>
+    <div className="container">
       <Header />
       <Menu />
       <Hotels/>
-    </>
+    </div>
   )
 }
 

@@ -1,9 +1,13 @@
+$height:50px;
+
 .header{
-    min-height: 50px;
+    min-height: $height;
     background-color: #cdcdcd;
     display: flex;
     align-items: center;
     justify-content: center;
     padding: 50px 15px;
+    background: url(../../assets/images/header.jpg) center;
+    background-size:cover;
 }
 

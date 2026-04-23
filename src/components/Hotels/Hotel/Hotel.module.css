@@ -1,0 +1,17 @@
+.hotel{
+    border:1px solid #cdcdcd;
+    padding:10px 10px;
+    margin-bottom:10px;
+    background-color:#ebebeb;
+}
+
+.imghotel{
+    width: 100%;
+    height: auto; /* proporcje zachowane automatycznie */
+}
+
+.description{
+    margin-top:10px;
+    color:#4d4d4d;
+    font-size:0.9rem;
+}
